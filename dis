@@ -1,0 +1,7 @@
+<script>
+function send_1(){
+var elements = document.getElementsByClassName("has-mb-1").value;
+console.log(elements);
+document.location.href="https://wa.me/77006076067?text="+elements;
+}
+</script>
